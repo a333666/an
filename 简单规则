@@ -1,6 +1,6 @@
 ! Title: 简单规则
 ! Homepage: https://github.com/a333666/an/tree/main
-! Total Count: 41
+! Total Count: 48
 ! Host
 www.xiaohongshu.com##DIV.reds-box.block.button-bottom-bar.widen-bar[data-v-54088202][data-v-11c71391]
 www.xiaohongshu.com##DIV.cube-z-bottom-bar.button-bottom-bar.bottom-bar[data-v-422c485f][data-v-4df84da2]
@@ -43,3 +43,10 @@ m.toutiao.com##DIV.download-bar__container
 m.toutiao.com##DIV.download-bar__app-name
 m.toutiao.com##DIV.download-bar__operation-item[role='button']
 m.toutiao.com##DIV.download-bar__version
+3g.163.com##DIV.widget-slider-article-simple.js-open-newsapp
+3g.163.com##DIV.js-open-app.comment-open-app
+3g.163.com##SECTION.main-openApp.js-open-app
+3g.163.com##DIV.backflow-floating.js-open-app
+3g.163.com##SPAN.s-openApp
+3g.163.com##DIV.s-tip.js-open-app
+3g.163.com##SPAN
