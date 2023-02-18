@@ -34,8 +34,12 @@ m.toutiao.com##IMG.logo[aria-hidden='true'][src='https://lf3-static.bytednsdoc.c
 m.toutiao.com##IMG.app-name-image[aria-hidden='true'][src='https://lf9-static.bytednsdoc.com/obj/eden-cn/9slhojpteh7nupwnuhojnulw/mobile_share/app_name.png'][alt='今日头条']
 m.toutiao.com##SPAN.slogan[aria-hidden='true']
 m.toutiao.com##SPAN.text
+m.toutiao.com##SPAN
 m.toutiao.com##DIV.float-activate-button
 m.toutiao.com##DIV.open[role='button'][aria-label='打开App']
 m.toutiao.com##DIV#top-banner-container-1676679226194.activate-bar-container
 m.toutiao.com##DIV.float-activate-button-container[style='bottom: 62px;']
 m.toutiao.com##DIV.download-bar__container
+m.toutiao.com##DIV.download-bar__app-name
+m.toutiao.com##DIV.download-bar__operation-item[role='button']
+m.toutiao.com##DIV.download-bar__version
