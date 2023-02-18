@@ -1,6 +1,6 @@
 ! Title: 简单规则
 ! Homepage: https://github.com/a333666/an/tree/main
-! Total Count: 49
+! Total Count: 55
 ! Host
 www.zhihu.com##BUTTON.Button.css-183aq3r.Button--blue[type='button']
 www.zhihu.com##BUTTON.Button.Button--primary.Button--blue.css-121zbv8[type='button']
@@ -51,3 +51,9 @@ m.toutiao.com##DIV.download-bar__version
 3g.163.com##SPAN.s-openApp
 3g.163.com##DIV.s-tip.js-open-app
 3g.163.com##SPAN
+m.weibo.cn##DIV.to-app-btn
+m.weibo.cn##DIV.woo-panel.woo-panel--bottom.module.news-banner[uid]
+m.weibo.cn##DIV.swiper-pagination.swiper-pagination-bullets
+m.weibo.cn##DIV.woo-box--flex.is-align-center.news-item
+m.weibo.cn##DIV.news-banner-text
+m.weibo.cn##DIV.news-btn-open
