@@ -1,6 +1,6 @@
 ! Title: 简单规则
 ! Homepage: https://github.com/a333666/q-app
-! Total Count: 70
+! Total Count: 72
 ! Host
 www.zhihu.com##BUTTON.Button.css-183aq3r.Button--blue[type='button']
 www.zhihu.com##BUTTON.Button.Button--primary.Button--blue.css-121zbv8[type='button']
@@ -72,3 +72,5 @@ m.bilibili.com##IMG.nav-open-app-img
 m.bilibili.com##DIV.btn-text
 m.bilibili.com##DIV.container
 m.bilibili.com##DIV.m-video2-awaken-btn-v2
+m.bilibili.com##DIV.m-video2-awaken-btn
+m.bilibili.com##DIV.m-video2-float-openapp
