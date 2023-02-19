@@ -1,6 +1,6 @@
 ! Title: 简单规则
 ! Homepage: https://github.com/a333666/q-app
-! Total Count: 60
+! Total Count: 62
 ! Host
 www.zhihu.com##BUTTON.Button.css-183aq3r.Button--blue[type='button']
 www.zhihu.com##BUTTON.Button.Button--primary.Button--blue.css-121zbv8[type='button']
@@ -62,3 +62,5 @@ m.weibo.cn##DIV.swiper-pagination.swiper-pagination-bullets
 m.weibo.cn##DIV.woo-box--flex.is-align-center.news-item
 m.weibo.cn##DIV.news-banner-text
 m.weibo.cn##DIV.news-btn-open
+video.h5.weibo.cn##DIV.m-kr-logo.m-box.m-box-center-a.topbar
+video.h5.weibo.cn##A.m-btn.m-btn-block.m-btn-orange.footer-bar[href='javascript:;'][ontouchstart]
